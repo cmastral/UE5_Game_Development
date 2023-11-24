@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/cmastral/Documents/Unreal Projects/ObstacleAssault/ObstacleAssault/Source/ObstacleAssault/ObstacleAssault.Build.cs",
+		"/Users/cmastral/Documents/Unreal Projects/ObstacleAssault/ObstacleAssault/Source/ObstacleAssault.Target.cs",
+		"/Users/cmastral/Documents/Unreal Projects/ObstacleAssault/ObstacleAssault/Source/ObstacleAssaultEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.0"
+}
